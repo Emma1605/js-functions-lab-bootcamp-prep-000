@@ -5,3 +5,4 @@ function happyHolidays()
 }
 function happyHollydaysto(name)
 return `Happy holidays, ${name}!`
+function holidayCountdown(days)
